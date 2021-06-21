@@ -2,7 +2,7 @@
 
 <strong> Nesse repositorio eu recriei o famoso jogo do dinossauro sem internet.</strong>
 
- <img alt="https://j.gifs.com/jYqqAv.gif">
+ <img alt="DinoGame" src="https://j.gifs.com/jYqqAv.gif">
 
 
 
