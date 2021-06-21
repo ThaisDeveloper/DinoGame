@@ -1,8 +1,8 @@
 <h1>Oi pessoal! 👋🏻</h1>
 
-Nesse repositorio eu recriei o famoso <strong>jogo do dinossauro sem internet</strong>. <h1>🦖</h1>
+Nesse repositorio eu recriei uma <strong>Calculadora Simples</strong> ultilizando Javascript.
 
- <img alt="DinoGif" src="https://j.gifs.com/jYqqAv.gif">
+ <img alt="CalculadoraJs" src="hhttps://j.gifs.com/K8ZZzY.gif">
 
 
 
